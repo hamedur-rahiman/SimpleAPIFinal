@@ -13375,11 +13375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\vscode\\simpleapisln\\test\\simpleapi.test\\SimpleApi.Test.csproj",
+      "projectUniqueName": "D:\\PipelinesFinal\\test\\simpleapi.test\\SimpleApi.Test.csproj",
       "projectName": "SimpleApi.Test",
-      "projectPath": "D:\\vscode\\simpleapisln\\test\\simpleapi.test\\SimpleApi.Test.csproj",
+      "projectPath": "D:\\PipelinesFinal\\test\\simpleapi.test\\SimpleApi.Test.csproj",
       "packagesPath": "C:\\Users\\hamedur.rahiman\\.nuget\\packages\\",
-      "outputPath": "D:\\vscode\\simpleapisln\\test\\simpleapi.test\\obj\\",
+      "outputPath": "D:\\PipelinesFinal\\test\\simpleapi.test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13398,8 +13398,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\vscode\\simpleapisln\\src\\SimpleAPI\\SimpleAPI.csproj": {
-              "projectPath": "D:\\vscode\\simpleapisln\\src\\SimpleAPI\\SimpleAPI.csproj"
+            "D:\\PipelinesFinal\\src\\SimpleAPI\\SimpleAPI.csproj": {
+              "projectPath": "D:\\PipelinesFinal\\src\\SimpleAPI\\SimpleAPI.csproj"
             }
           }
         }
