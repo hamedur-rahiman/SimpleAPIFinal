@@ -4913,7 +4913,7 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
-      "SimpleAPI/1.0.0": {
+      "simpleapi/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
@@ -4921,10 +4921,10 @@
           "Microsoft.NETCore.App": "2.1.0"
         },
         "compile": {
-          "bin/placeholder/SimpleAPI.dll": {}
+          "bin/placeholder/simpleapi.dll": {}
         },
         "runtime": {
-          "bin/placeholder/SimpleAPI.dll": {}
+          "bin/placeholder/simpleapi.dll": {}
         }
       }
     }
@@ -13352,10 +13352,10 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "SimpleAPI/1.0.0": {
+    "simpleapi/1.0.0": {
       "type": "project",
-      "path": "../../src/SimpleAPI/SimpleAPI.csproj",
-      "msbuildProject": "../../src/SimpleAPI/SimpleAPI.csproj"
+      "path": "../../src/simpleapi/simpleapi.csproj",
+      "msbuildProject": "../../src/simpleapi/simpleapi.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -13363,7 +13363,7 @@
       "Microsoft.AspNetCore.App >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
-      "SimpleAPI >= 1.0.0",
+      "simpleapi >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
@@ -13375,11 +13375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PipelinesFinal\\test\\simpleapi.test\\SimpleApi.Test.csproj",
-      "projectName": "SimpleApi.Test",
-      "projectPath": "D:\\PipelinesFinal\\test\\simpleapi.test\\SimpleApi.Test.csproj",
+      "projectUniqueName": "D:\\PipelinesFinal\\test\\simpleapi.Test\\simpleapi.test.csproj",
+      "projectName": "simpleapi.test",
+      "projectPath": "D:\\PipelinesFinal\\test\\simpleapi.Test\\simpleapi.test.csproj",
       "packagesPath": "C:\\Users\\hamedur.rahiman\\.nuget\\packages\\",
-      "outputPath": "D:\\PipelinesFinal\\test\\simpleapi.test\\obj\\",
+      "outputPath": "D:\\PipelinesFinal\\test\\simpleapi.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13422,7 +13422,6 @@
             "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

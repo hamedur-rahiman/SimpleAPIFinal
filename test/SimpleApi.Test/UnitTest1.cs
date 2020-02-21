@@ -8,6 +8,8 @@ namespace SimpleApi.Test
     {
         ValuesController controller = new ValuesController();
 
+
+
         [Fact]
         public void GetReturnMyName()
         {
@@ -22,5 +24,12 @@ namespace SimpleApi.Test
         {
 
         }
+
+        [Fact]
+        public void Test2()
+        {
+
+        }
+
     }
 }
